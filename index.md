@@ -1,4 +1,4 @@
-# Welcome to my blog
+Welcome to my blog
 
 - I am Sarat Bhargava, Masters Student at UCLA
 
