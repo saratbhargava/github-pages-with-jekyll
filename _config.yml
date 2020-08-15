@@ -1,4 +1,4 @@
-title: Sarats Blog
+title: Sarat Bhargava
 author: saratbhargava
 email: sarat2895@gmail.com
 description: Machine learning engineer
@@ -6,7 +6,7 @@ description: Machine learning engineer
 theme: minima
 
 # social links
-twitter_username: SaratChinni # DO NOT include the @ character, or else the build will fail!
-github_username:  saratbhargava # DO NOT include the @ character, or else the build will fail!
+twitter_username: SaratChinni
+github_username:  saratbhargava
 
 show_excerpts: true # set to false to remove excerpts on the homepage
